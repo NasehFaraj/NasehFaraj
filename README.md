@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Naseh 👋
 
-<!--
-**NasehFaraj/NasehFaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Backend Software Developer** with a solid foundation in problem-solving and a strong passion for building scalable, clean, and efficient server-side applications.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Languages:** TypeScript, JavaScript, C++
+* **Backend Frameworks:** Node.js, NestJS
+* **Architecture & Concepts:** Domain-Driven Design (DDD), RESTful APIs
+* **Exploring & Learning:** DevOps, AI Agents (Gemini)
+
+### 🚀 About Me
+
+* 💻 I work full-time developing robust backend systems (currently focusing on e-commerce and delivery platforms).
+* 🏆 I have a strong background in competitive programming, both as a participant (ACPC) and as a coach.
+* 🤝 I enjoy tutoring, mentoring, and contributing to open-source projects.
+* 🌱 Currently diving deeper into DevOps practices and how AI can optimize development workflows.
+
+### 📫 Let's Connect
+
+* **Email:** [Your Email Here]
+* **LinkedIn:** [Your LinkedIn Profile Link]
