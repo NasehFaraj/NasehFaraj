@@ -8,7 +8,7 @@ I'm a **Backend Software Engineer** specializing in building scalable, secure, a
 
 * 🏆 **Competitive Programmer:** ICPC Regional Finalist. Solved over 2,000 algorithmic problems using C++.
 * 🌍 **Open Source Contributor:** Actively contributing to major projects (e.g., improved official documentation for **NestJS**, and contributed features to **Puppeteer**).
-* 🎓 **Educator & Mentor:** Experience lecturing C++ programming fundamentals and guiding university ICPC teams.
+* 🎓 **Mentor & Coach:** Coached university ICPC teams, focusing on competitive problem-solving, advanced algorithms, and data structures.
 * 💻 **Hands-on Experience:** Built multi-role systems, e-commerce APIs, and handled VPS deployments using Linux and Docker.
 
 ### 🛠️ Tech Stack & Tools
@@ -48,8 +48,8 @@ I'm a **Backend Software Engineer** specializing in building scalable, secure, a
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NasehFaraj&show_icons=true&hide_border=true&title_color=007ACC&icon_color=007ACC" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasehFaraj&layout=compact&hide_border=true&title_color=007ACC" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NasehFaraj&show_icons=true&hide_border=true&title_color=007ACC&icon_color=007ACC&theme=transparent" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasehFaraj&layout=compact&hide_border=true&title_color=007ACC&theme=transparent" alt="Top Languages" />
 </div>
 
 ### 📫 Let's Connect
