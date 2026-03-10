@@ -47,10 +47,10 @@ I'm a **Backend Software Engineer** specializing in building scalable, secure, a
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NasehFaraj&show_icons=true&hide_border=true&title_color=007ACC&icon_color=007ACC&theme=transparent" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasehFaraj&layout=compact&hide_border=true&title_color=007ACC&theme=transparent" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NasehFaraj&show_icons=true&hide_border=true&title_color=007ACC&icon_color=007ACC&theme=dark&bg_color=00000000&cache_seconds=3600" alt="Naseh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasehFaraj&layout=compact&hide_border=true&title_color=007ACC&theme=dark&bg_color=00000000&cache_seconds=3600" alt="Top Languages" />
+</p>
 
 ### 📫 Let's Connect
 
