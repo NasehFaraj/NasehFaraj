@@ -45,13 +45,6 @@ I'm a **Backend Software Engineer** specializing in building scalable, secure, a
 * **Security:** Authentication & Authorization (JWT, Role-Based Access Control - RBAC).
 * **Code Quality:** Unit & Integration Testing (Mocking, Jest), Complex Relational Modeling.
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NasehFaraj&show_icons=true&hide_border=true&title_color=007ACC&icon_color=007ACC&theme=dark&bg_color=00000000&cache_seconds=3600" alt="Naseh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasehFaraj&layout=compact&hide_border=true&title_color=007ACC&theme=dark&bg_color=00000000&cache_seconds=3600" alt="Top Languages" />
-</p>
-
 ### 📫 Let's Connect
 
 * 🌐 **Portfolio:** [nasehfaraj.online](https://nasehfaraj.online)
